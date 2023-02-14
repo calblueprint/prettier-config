@@ -1,7 +1,7 @@
 {
   "name": "@calblueprint/prettier-config",
-  "version": "0.0.0",
-  "description": "Shared prettier config for Cal Blueprint projects",
+  "version": "0.0.1",
+  "description": "Shared Prettier config for Cal Blueprint projects",
   "main": "prettier.config.js",
   "scripts": {
     "prettier:check": "npx prettier --check .",
