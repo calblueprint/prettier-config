@@ -31,3 +31,7 @@ This package provides a shared Prettier configuration.
      // Add any overrides here
    };
    ```
+   
+   Note: you may need to remove or merge any other existing prettier config files.
+
+4. Test that the config is working by running `npx prettier --check .` in your project's root directory.
