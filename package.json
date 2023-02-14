@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/calblueprint/prettier-config/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/calblueprint/prettier-config#readme",
   "devDependencies": {
     "prettier": "^2.8.4"
