@@ -1,0 +1,26 @@
+{
+  "name": "@calblueprint/prettier-config",
+  "version": "0.0.0",
+  "description": "Shared prettier config for Cal Blueprint projects",
+  "main": "prettier.config.js",
+  "scripts": {
+    "prettier:check": "npx prettier --check .",
+    "prettier:fix": "npx prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calblueprint/prettier-config.git"
+  },
+  "author": "Annie Wang <anniedwang02@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calblueprint/prettier-config/issues"
+  },
+  "homepage": "https://github.com/calblueprint/prettier-config#readme",
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  },
+  "peerDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
